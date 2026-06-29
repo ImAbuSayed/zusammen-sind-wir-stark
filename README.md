@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/zusammen-sind-wir-stark/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Zusammen sind wir stark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zusammen-sind-wir-stark/) |
+| **Get License** | [Commercial Licensing for Zusammen sind wir stark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zusammen-sind-wir-stark/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Rote Ampeln blenden, der Motor ist so laut
+> Du bist die einzige Frau, auf die mein Herz baut
+> Dein Blick ist verführerisch, die Spannung extrem
+> Zusammen sind wir stark, wir sind das beste System
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
