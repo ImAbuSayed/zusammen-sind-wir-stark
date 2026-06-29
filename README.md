@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/zusammen-sind-wir-stark/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Zusammen sind wir stark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zusammen-sind-wir-stark/) |
+| **Get License** | [Official Music Licensing for Zusammen sind wir stark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/zusammen-sind-wir-stark/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e21671d7bb785fbf4bdb670a1d4bcc762f9722e285acc981022496d64d5baf89` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
